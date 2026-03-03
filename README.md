@@ -4,3 +4,25 @@ Taught Qwen model to count number of giver letter in a given word. and provide t
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+xjshdjldkjlskdjlskjdlksdlskjdlksdjlskdjlskdjslkdjslkdjsldjk
